@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryandcartwright
 - 👀 I’m interested in your current pain points using IaC platforms and ensuring customers improve their DevOps Maturity.
-- 🌱 I’m currently learning more about the pains of customers using Terraform, CloudFormation, Pulumi, and Ansible.
+- 🌱 I’m currently learning more about the pains of customers using bespoke CICD platforms to manage Terraform, CloudFormation, Pulumi, and Ansible.
 - 💞️ I’m looking to collaborate on learning how to improve your IaC Maturity with https://spacelift.io/ Spacelift is a flexible orchestration solution for IaC development. It delivers enhanced collaboration, automation and advanced controls to simplify and accelerate the provisioning of cloud based infrastructures. 
 - 📫 Connect with me on LinkedIn at https://www.linkedin.com/in/ryandcartwright/
 - ⛵ My hobbies include sailing, scuba diving, cylcing, running, and traveling.
